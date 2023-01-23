@@ -1,4 +1,4 @@
-#Librariess
+#Libraries
 from sklearn.metrics import confusion_matrix, classification_report
 import seaborn as sn
 import matplotlib.mlab as mlab
